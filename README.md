@@ -4,6 +4,8 @@ I originally intended to become a marine biologist studying sharks. These days, 
 This project developed from wanting a better way to observe and document activity at the feeder while also exploring motion detection, camera setup, environmental troubleshooting, and incremental computer vision workflows using consumer hardware and real-world constraints.
 The project also intends to illustrate how similar monitoring and identification challenges may appear in broader wildlife or environmental observation contexts, where behavior, lighting, movement, and capture conditions are rarely ideal.
 
+<img width="450" alt="SnowyFeeder2" src="https://github.com/user-attachments/assets/d121446e-05b0-44e2-9666-0efe1673f5b9" />
+
 ## Project Intro
 ### Project Goals
 Detect meaningful movement at the feeder and capture useful recordings/events without excessive false positives.
